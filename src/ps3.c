@@ -4,6 +4,7 @@
 #include <esp_system.h>
 #include "include/ps3.h"
 #include "include/ps3_int.h"
+#include "esp_mac.h"  //ESP32 IDFv3.2.0以上支援, Nick 20260301
 
 /********************************************************************************/
 /*                              C O N S T A N T S                               */
